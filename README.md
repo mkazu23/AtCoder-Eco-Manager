@@ -35,7 +35,7 @@ This is a repository for recording submissions at [AtCoder](https://atcoder.jp/h
    - [Push commits to GitHub repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
 
 ## FYI
-Descriptions are written in this article.
+Descriptions are written in [this article](https://zenn.dev/mkazu2023/articles/c1dafbaa370759).
 
 ## Licence
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/mkazu23/AtCoder-Eco-Manager/blob/main/LICENSE) for details.
