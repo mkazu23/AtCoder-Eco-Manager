@@ -153,8 +153,8 @@ def fetch_submission_info(contest_id, id):
     Fetch code and problem information for given contest ID and submission ID.
 
     Args:
-        contest_id (_type_): Contest id
-        id (_type_): Problem id
+        contest_id (str): Contest id
+        id (str): Problem id
 
     Returns:
         dictionary: Contains the code、problem title、and problem URL.
@@ -208,7 +208,7 @@ def modify_filename(filename):
 
 def get_file_extension(language):
     """_summary_
-    Selects the file extension from the language name based on mapping.
+    Select the file extension from the language name based on mapping.
 
     Args:
         language (str): The name of the programming language.
